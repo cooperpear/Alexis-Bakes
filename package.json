@@ -19,5 +19,8 @@
   "devDependencies": {
     "node-sass": "^5.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-mailer": "^0.1.1"
+  }
 }
